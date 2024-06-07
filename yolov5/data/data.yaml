@@ -1,0 +1,6 @@
+names:
+  0: close
+  1: open
+nc: 2
+train: pfe-2/train/images
+val: pfe-2/valid/images
